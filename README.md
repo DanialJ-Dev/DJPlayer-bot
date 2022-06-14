@@ -42,7 +42,7 @@ Available locale is:
 
 ## 📝 Features & Commands
 
-> Note: The default prefix is '/'
+> Note: The default prefix is '-'
 
 * 🎶 Using YouTube Url
 
